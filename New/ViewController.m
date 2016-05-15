@@ -20,6 +20,7 @@
     NSLog(@"slfjasldfj lsa");
     NSLog(@"今天天气不错");
     NSLog(@"今天中午吃什么");
+    NSLog(@"再试一次");
 }
 
 - (void)didReceiveMemoryWarning {
