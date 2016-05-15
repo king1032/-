@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"slfjasldfj lsa");
     NSLog(@"今天天气不错");
+    NSLog(@"今天中午吃什么");
 }
 
 - (void)didReceiveMemoryWarning {
